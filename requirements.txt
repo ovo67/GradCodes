@@ -1,0 +1,11 @@
+torch
+transformers
+datasets
+peft
+accelerate
+bitsandbytes
+lm-eval
+huggingface_hub
+
+# Optional: required only to score AlpacaEval outputs.
+alpaca-eval
